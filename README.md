@@ -32,7 +32,7 @@ A documentation of my 100 days of code challenge
   > Completed 2 more modules and hence the course. The repo is complete as well. Last part was about fine tuning the routing and finishing up. There was a module about modules of Angular. Also, i tried making the tensorflow [codelab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0) in a python notebook. It may not be pushed here (I'll think about it). Other than that, i am trying to implement an algo in a pen. Currently i am searching for the bug in it (have been searching for a while). Maybe i'll push it here tomorrow.
 
 * Day 10
-  > Completed the algo. pushed [here](https://github.com/kaydee/Some-Pens) too. Working link will be posted soon. UPDATE: working [link](https://codepen.io/KayD33/full/vzwVBj/)
+  > Completed the algo. pushed [here](https://github.com/kaustubhd/Some-Pens) too. Working link will be posted soon. UPDATE: working [link](https://codepen.io/KaustubhD/full/vzwVBj/)
   
 * Day 11
   > Almost completed the algorithm thing. Just minor UI stuff left. Looking pretty good too.
@@ -151,7 +151,7 @@ A documentation of my 100 days of code challenge
   > Going really slow on the React thing. I'll try to take out time tomorrow.
 
 * Day 49
-  > I was thinking about making a fractal or two since morning. So i made a *Mandelbrot Set* [here](https://github.com/KayDee/Some-Pens/tree/master/Mandlebrot%20Set). Took a little while to find a page where they explained coloring the set with a programmer's point of view. Other than that i am struggling with the React project. It was a page, but considering the obstacles, i've got to call it a project. The tutorial i'm learning from is either outdated or filled with bugs. Apart from the basic stuff, nothing is seem to be working. I'm myself surprised when i fix one of the bugs, like how do i know to do that stuff. I hope i can fix it all the way. It will take more time than i thought. Other than that, my application for *Github Campus Experts* has been accepted.
+  > I was thinking about making a fractal or two since morning. So i made a *Mandelbrot Set* [here](https://github.com/Kaustubhd/Some-Pens/tree/master/Mandlebrot%20Set). Took a little while to find a page where they explained coloring the set with a programmer's point of view. Other than that i am struggling with the React project. It was a page, but considering the obstacles, i've got to call it a project. The tutorial i'm learning from is either outdated or filled with bugs. Apart from the basic stuff, nothing is seem to be working. I'm myself surprised when i fix one of the bugs, like how do i know to do that stuff. I hope i can fix it all the way. It will take more time than i thought. Other than that, my application for *Github Campus Experts* has been accepted.
 
 * Day 50
   > I have now the first working page of React auth with Firebase. The tutotial page was filled with bugs (Still very informative). Check it out [here](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/). Also, working on the Julia set now. It was pretty easy. Will try to animate it tomorrow, if JS allows me. I was going to do my first GHCE exercise, but i wasn't in a good mood today, so postponed that for tomorrow.
@@ -169,7 +169,7 @@ A documentation of my 100 days of code challenge
   > Today was tiring. Most of the day, almost all of it was spent learning ML and its aplications. It was exciting seeing so many things built with it. There are so many libraries out there [tensorflow](https://tensorflow.org), [keras](https://keras.io), [ml5.js](https://ml5js.org) that either lets you work out of the box or help make you whole process a lot easier (maybe they both are the same thing, who knows). Learning more tomorrow. EDIT: **14 hrs** straight. Thats what a day of proper sleep gives me the next day.
 
 * Day 54
-  > Wasted first half of the day. Spent the second half of second half of the day in figuring out the errors in the Object Detection program that i was building. Now it 12:15 and finally it is done. You can check it out [here](https://github.com/KayDee/Detect-All). I will have to write a pretty detailed README for this to be any useful. Other than that, i have completely forgotten about my DSC and GitHub CE applications. I'll try to spend tomorrow working on those (if i remember). I do suspect a major distraction coming my way (just a feeling).
+  > Wasted first half of the day. Spent the second half of second half of the day in figuring out the errors in the Object Detection program that i was building. Now it 12:15 and finally it is done. You can check it out [here](https://github.com/Kaustubhd/Detect-All). I will have to write a pretty detailed README for this to be any useful. Other than that, i have completely forgotten about my DSC and GitHub CE applications. I'll try to spend tomorrow working on those (if i remember). I do suspect a major distraction coming my way (just a feeling).
 
 * Day 55
   > Drafted my Letter of Recommedation for the DSC position and completed Module 2 of GHCE exercise. In the code department, i could only manage to watch a video on JS best practices (don't know how many i've seen now). Tomorrow i have the task of figuring out what to say in my video application for DSC.
@@ -283,7 +283,7 @@ A documentation of my 100 days of code challenge
   > Still the same course. A little progress only. Got caught up with other things. Fore warning, i might not be able to complete the challenge. I'll try my level best because the coming week is going to be a challenge
 
 * Day 93
-  > Continuation of the course. Didnt watch much becausr of replaying over and over. So, maybe it can take a full week.
+  > Continuation of the course. Didn't watch much because of replaying over and over. So, maybe it can take a full week.
   
 * Day 94
   > Trying to learn to make a website (server side thing this time) with node and express. Got stuck on the first step. How to set up routes in express. Everywhere i look, i see people writing different texts on different routes. The real question is how do i serve up different html files on different routes without using a *view-engine*. Can't seem to find that.
@@ -303,4 +303,5 @@ A documentation of my 100 days of code challenge
 * Day 100
   > Final day. Have to say, most work done than any day of last couple of weeks. Continued with the course and made an express starter app. Very basic but still, new thing.
 
---- End ---
+## 100 days are complete now. ##
+**Challenge complete**
